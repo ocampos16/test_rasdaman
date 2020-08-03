@@ -95,7 +95,6 @@ Investigation, for resource reasons, could only cover storage access and “emba
 Overall, a clear ranking is visible with rasdaman being fastest, followed by Open Data Cube (up to 74x slower), PostGIS Raster (up to 82x slower), and SciDB (up to 304x slower), in sequence. For more information please refer to the [report].
 
 ![Assessment Results](array_database_report_assessment.png)
-Format: ![Alt Text](url)
 
 # Benchmark execution
 
